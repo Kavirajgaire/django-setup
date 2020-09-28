@@ -14,6 +14,7 @@ pip3 install "django-storages==1.9.1"
 pip3 install "boto3==1.14.43"
 pip3 install "reportlab==3.5.47"
 pip3 install "django-s3direct==1.1.8"
+pip3 install "django-cors-headers==3.5.0"
 
 #terminal commands for aws ec2
 vim filename (:q,i,:w)
